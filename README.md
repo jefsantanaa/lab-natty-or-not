@@ -1,51 +1,37 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# Creating Music with Artificial Intelligence Using Suno
 
-## 🚀 Introdução
+## 📒Descripion:
+This project aims to teach the creation of music using artificial intelligence, specifically with the [Suno](https://suno.com/), a generative program for realistic music. The tutorial is aimed at beginners who wish to explore musical creation through text instructions, providing a step-by-step guide to start and produce their own musical compositions.
 
-> Woooow! Look at this 👀
+## 🤖Technologies Used:
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+- Suno: An artificial intelligence tool that generates realistic music based on text prompts.
+- Generative AI: AI technology that creates new and original content from specific input data.
+- Alura Platform: Learning and reference source used to learn to operate Suno, especially the lessons provided by Fabrício Carraro.
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+## 🧐Creative Process:
 
-### Objetivos
+> 1. Account Creation:
+> - Set up the account and become familiar with the Suno interface.
+> 2. Prompt Definition:
+> - Develop an understanding of how text prompts influence musical creation.
+> - Experiment with different types of text instructions to generate various atmospheres and musical styles.
+> 3. Music Generation:
+> - Input text prompts into Suno and generate various iterations of music.
+> - Adjust prompts as necessary to refine the style and quality of the generated music.
+> 4. Refinement and Editing:
+> - Review the generated music and select the best compositions.
+> - Make final adjustments, if necessary, using complementary audio editing software.
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+## 🚀Results:
+My created songs:
 
-### Template
+![image](https://github.com/jefsantanaa/lab-natty-or-not/assets/61391647/e9574b37-8a02-42c8-85ae-b72732651122)
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+[Song 1](https://suno.com/song/1b9d9093-a970-4b2d-abed-dece38c0c3ca)
+[Song 2](https://suno.com/song/cf6c8752-316a-4354-b80c-34d074c1a5f8)
 
-## 📒 Descrição
-Breve descrição do seu projeto
 
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
 
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
-
-## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+## 💭Reflections:
+This project provides a fascinating insight into the potential of artificial intelligence in music. The ability to generate original compositions through simple text instructions democratizes musical creation, allowing even those without musical training to advance in composition. The use of Suno highlights the ongoing evolution of AI and its creative impact, encouraging continued exploration of the possibilities offered by this emerging technology.
