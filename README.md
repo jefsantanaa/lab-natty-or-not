@@ -7,7 +7,7 @@ This project aims to teach the creation of music using artificial intelligence, 
 
 - Suno: An artificial intelligence tool that generates realistic music based on text prompts.
 - Generative AI: AI technology that creates new and original content from specific input data.
-- Alura Platform: Learning and reference source used to learn to operate Suno, especially the lessons provided by Fabrício Carraro.
+- Alura Platform: Learning and reference source used to learn to operate Suno, especially the lessons provided by [Fabrício Carraro](https://www.youtube.com/watch?v=4SwzGdOw0HE&ab_channel=Alura).
 
 ## 🧐Creative Process:
 
@@ -26,7 +26,8 @@ This project aims to teach the creation of music using artificial intelligence, 
 ## 🚀Results:
 My created songs:
 
-![image](https://github.com/jefsantanaa/lab-natty-or-not/assets/61391647/e9574b37-8a02-42c8-85ae-b72732651122)
+![image](https://github.com/jefsantanaa/lab-natty-or-not/assets/61391647/6ba16d6f-b9a4-43b3-969b-a668068ebe35)
+
 
 [Song 1](https://suno.com/song/1b9d9093-a970-4b2d-abed-dece38c0c3ca)
 [Song 2](https://suno.com/song/cf6c8752-316a-4354-b80c-34d074c1a5f8)
